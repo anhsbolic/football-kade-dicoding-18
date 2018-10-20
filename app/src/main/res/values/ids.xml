@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="match_detail_coordinator_layout" type="id" />
+    <item name="match_details_txt_date" type="id" />
+    <item name="match_details_score_layout" type="id" />
+    <item name="match_details_txt_vs" type="id" />
+    <item name="match_details_txt_home_score" type="id" />
+    <item name="match_details_txt_away_score" type="id" />
+    <item name="match_details_img_home" type="id" />
+    <item name="match_details_img_away" type="id" />
+    <item name="match_details_team_layout" type="id" />
+    <item name="match_details_txt_home_team" type="id" />
+    <item name="match_details_txt_away_team" type="id" />
+    <item name="match_details_txt_home_formation" type="id" />
+    <item name="match_details_txt_away_formation" type="id" />
+    <item name="match_details_txt_home_goals" type="id" />
+    <item name="match_details_txt_away_goals" type="id" />
+    <item name="match_details_txt_home_shots" type="id" />
+    <item name="match_details_txt_away_shots" type="id" />
+    <item name="match_details_txt_home_goal_keeper" type="id" />
+    <item name="match_details_txt_away_goal_keeper" type="id" />
+    <item name="match_details_txt_home_defense" type="id" />
+    <item name="match_details_txt_away_defense" type="id" />
+    <item name="match_details_txt_home_midfield" type="id" />
+    <item name="match_details_txt_away_midfield" type="id" />
+    <item name="match_details_txt_home_forward" type="id" />
+    <item name="match_details_txt_away_forward" type="id" />
+    <item name="match_details_txt_home_substitutes" type="id" />
+    <item name="match_details_txt_away_substitutes" type="id" />
+    <item name="match_details_txt_time" type="id" />
+</resources>

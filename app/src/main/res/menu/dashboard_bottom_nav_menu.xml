@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_dashboard_bot_nav"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dashboard_bot_nav_matches"
+            android:icon="@drawable/bot_nav_match"
+            android:title="@string/dashboard_bot_nav_match_title" />
+        <item
+            android:id="@+id/dashboard_bot_nav_teams"
+            android:icon="@drawable/bot_nav_team"
+            android:title="@string/dashboard_bot_nav_next_match_title" />
+        <item
+            android:id="@+id/dashboard_bot_nav_favorites"
+            android:icon="@drawable/bot_nav_favorite"
+            android:title="@string/dashboard_bot_nav_favorites_title" />
+
+    </group>
+</menu>

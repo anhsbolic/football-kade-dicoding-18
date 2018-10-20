@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Football Apps</string>
+
+    <!-- TODO: DELETE -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- SPLASH -->
+    <string name="splash_icon">splash icon</string>
+
+    <!-- DASHBOARD -->
+    <string name="dashboard_page_title">Football Apps</string>
+    <string name="dashboard_bot_nav_match_title">Matches</string>
+    <string name="dashboard_bot_nav_next_match_title">Teams</string>
+    <string name="dashboard_bot_nav_favorites_title">Favorites</string>
+
+    <!-- ADAPTER MATCH EVENT -->
+    <string name="adapter_match_event_add_to_calendar_img">add to calendar img</string>
+    <string name="adapter_match_event_vs">VS</string>
+
+    <!-- MATCH DETAILS -->
+    <string name="match_details_page_title">Match Details</string>
+    <string name="match_details_vs">VS</string>
+    <string name="match_details_goals">Goals</string>
+    <string name="match_details_shots">Shots</string>
+    <string name="match_details_lineups">Lineups</string>
+    <string name="match_details_goal_keeper">Goal Keeper</string>
+    <string name="match_details_defense">Defense</string>
+    <string name="match_details_midfield">Midfield</string>
+    <string name="match_details_forward">Forward</string>
+    <string name="match_details_substitutes">Substitutes</string>
+    <string name="match_details_favorites">Favorites</string>
+
+    <!-- SEARCH -->
+    <string name="menu_search">search</string>
+
+    <!-- SEARCH MATCH -->
+    <string name="search_match_img_no_result">img no result</string>
+
+    <!-- ADAPTER TEAM -->
+    <string name="adapter_team_img_team_badge">img team badge</string>
+
+    <!-- TEAM DETAILS -->
+    <string name="team_details_team_badge">team badge</string>
+    <string name="team_details_favorites">Favorites</string>
+
+    <!-- ADAPTER PLAYER -->
+    <string name="adapter_player_avatar">player avatar</string>
+
+    <!-- PLAYER DETAILS -->
+    <string name="player_details_page_title">Player Details</string>
+    <string name="player_details_img_player_fan_art">img player fan art</string>
+    <string name="player_details_weight_title">Weight (Kg)</string>
+    <string name="player_details_height_title">Height (m)</string>
+
+</resources>
