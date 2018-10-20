@@ -4,7 +4,7 @@ Final submission for [Kotlin Android Developer Expert](https://www.dicoding.com/
 
 This App look like this:
 
-<img src="https://github.com/anhsbolic/football-kade-dicoding-18/blob/master/preview.gif" width="300" height="600" />
+<img src="https://github.com/anhsbolic/football-kade-dicoding-18/blob/master/preview.gif" width="305" height="600" />
 
 ## This App Using:
   - [Anko](https://github.com/Kotlin/anko)
